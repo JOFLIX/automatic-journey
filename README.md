@@ -51,7 +51,7 @@ Admin should:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/iansani/Nextdoor
+        $ git clone https://github.com/JOFLIX/automatic-journey.git Nextdoor
         $ cd Nextdoor
 
 ## Running the Application
@@ -63,7 +63,7 @@ Admin should:
 
 * Installing Django and other Modules
 
-        $ see Requirements.txt
+        $ pip install -r requirements.txt
 
 * To run the application, in your terminal:
 
@@ -76,11 +76,12 @@ Admin should:
 
 ## Technologies Used
 * Python3.6
-* Django  framework and postgresql database
+* Django  framework
+* postgresql database
 
 ## Known Bugs
 
-* Occupants/resident count
+* There is a bug with counting the occupants, kindly contact us for remediation of any issue by raising an issue on this repo if you encounter any other.
 
 ## License
 
